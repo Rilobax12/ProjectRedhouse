@@ -1,0 +1,5 @@
+COLE:
+
+A QTE sequence where when you approach a door -- you can try prying it open with a tool or brute strength -- spamming an input to wedge at the door, however if you are heard, people will come to investigate so be cautious using this option of entry. Best used for a less stealth approach -- also increases your victims fear meter.
+
+AIDAN:
