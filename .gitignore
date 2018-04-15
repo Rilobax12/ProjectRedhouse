@@ -73,13 +73,12 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-UE4Source/ProjectRedhouse/Saved/Autosaves/PackageRestoreData.json
-UE4Source/ProjectRedhouse/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-UE4Source/ProjectRedhouse/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-UE4Source/ProjectRedhouse/Saved/Config/Windows/Engine.ini
-UE4Source/ProjectRedhouse/Saved/Autosaves/PackageRestoreData.json
 UE4Source/ProjectRedhouse/Saved/Logs/ProjectRedhouse.log
-UE4Source/ProjectRedhouse/Saved/Config/Windows/Engine.ini
-UE4Source/ProjectRedhouse/Saved/Config/Windows/EditorPerProjectUserSettings.ini
-UE4Source/ProjectRedhouse/Saved/Autosaves/PackageRestoreData.json
 UE4Source/ProjectRedhouse/Intermediate/CachedAssetRegistry.bin
+UE4Source/ProjectRedhouse/Saved/Autosaves/PackageRestoreData.json
+UE4Source/ProjectRedhouse/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+UE4Source/ProjectRedhouse/Intermediate/CachedAssetRegistry.bin
+UE4Source/ProjectRedhouse/Saved/Autosaves/PackageRestoreData.json
+UE4Source/ProjectRedhouse/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+UE4Source/ProjectRedhouse/Saved/Config/Windows/Engine.ini
+UE4Source/ProjectRedhouse/Saved/Logs/ProjectRedhouse.log
