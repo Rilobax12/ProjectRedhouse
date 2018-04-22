@@ -1,0 +1,5 @@
+Client applications connection settings for server:
+COLE:1666
+
+Client applications connection settings for proxy:
+COLE:1667
